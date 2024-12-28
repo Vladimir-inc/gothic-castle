@@ -19,11 +19,6 @@
         "compatibility": {}
       },
       {
-        "id": "dungeons-lab-hub",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "monks-active-tiles",
         "type": "module",
         "compatibility": {}
