@@ -1,10 +1,10 @@
 {
   "id": "dungeons-lab-castle-ravenloft",
   "title": "Dungeons LAB Castle Ravenloft",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "11"
   },
   "relationships": {
     "requires": [
@@ -49,6 +49,7 @@
     {
       "name": "Dungeons LAB",
       "url": "https://www.patreon.com/c/Dungeons_LAB",
+      "discord": "https://discord.gg/6NuuY34ZmN",
       "flags": {}
     }
   ],
@@ -58,14 +59,11 @@
       "label": "Dungeons LAB Castle Ravenloft",
       "path": "packs/dungeons-lab-castle-ravenloft",
       "type": "Adventure",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     }
-  ],
-  "manifest": "https://github.com/Vladimir-inc/gothic-castle/releases/download/v1.0/module.json",
-  "download": "https://github.com/Vladimir-inc/gothic-castle/archive/refs/tags/v1.0.zip"
+  ]
 }
