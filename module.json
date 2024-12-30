@@ -43,6 +43,13 @@
         "type": "module",
         "compatibility": {}
       }
+    ],
+    "recommends": [
+      {
+        "id": "dungeons-lab-hub",
+        "type": "module",
+        "compatibility": {}
+      }
     ]
   },
   "authors": [
